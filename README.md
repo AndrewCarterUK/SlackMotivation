@@ -6,11 +6,17 @@ Every day, millions of people log into a [Slack](https://slack.com/) channel, on
 
 By replacing [Slack](https://slack.com) clichés with a more honest and sincere welcome message, this extension allows you to start your day without feeling the need to vomit all over your keyboard.
 
-## Before
+## Install
+
+Obtain the CRX file from this repository and drag it into [chrome://extensions](chrome://extensions). You may need to enable developer mode.
+
+## Screenshots
+
+### Before
 
 ![Before](https://res.cloudinary.com/andrewcarteruk/image/upload/v1476273227/before_qmf09s.png)
 
-## After
+### After
 
 ![After](https://res.cloudinary.com/andrewcarteruk/image/upload/v1476273462/after_cms80n.png)
 
