@@ -8,7 +8,7 @@ By replacing [Slack](https://slack.com) clichés with a more honest and sincere 
 
 ## Install
 
-Obtain the CRX file from this repository and drag it into [chrome://extensions](chrome://extensions). You may need to enable developer mode.
+Obtain the CRX file from this repository and drag it into [chrome://extensions](chrome://extensions).
 
 ## Screenshots
 
