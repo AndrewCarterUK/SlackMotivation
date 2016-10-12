@@ -9,7 +9,7 @@
 
   "content_scripts": [
     {
-      "matches": ["https://*.slack.com/*"],
+      "matches": ["https://*.slack.com/messages", "https://*.slack.com/messages/*"],
       "js": ["replace.js"],
       "run_at": "document_start"
     }
